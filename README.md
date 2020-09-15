@@ -6,3 +6,4 @@ Data is pulled from a csv file using d3.csv and plotted onto a scatter plot with
 
 Image of graph:
 
+![Image of Graph](https://octodex.github.com/images/yaktocat.png)
